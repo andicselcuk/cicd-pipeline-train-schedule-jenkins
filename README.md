@@ -14,4 +14,4 @@ You can run the app with:
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
-20220603 23:35 tarih/saat itibariyle dosya editlendi.
+20220603 23:37 tarih/saat itibariyle dosya editlendi.
